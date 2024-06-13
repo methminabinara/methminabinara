@@ -1,7 +1,9 @@
 Hi there, I'm Methmina Binara!
 
-🌱 I’m currently studying Computer Science & Statistics at the University Of Peradeniya
-📫 How to reach me: binaraepa@gmail.com
+• 🌱 I’m currently studying Computer Science & Statistics at the University Of Peradeniya
+• 📫 How to reach me: binaraepa@gmail.com
+
+
 <!--
 **methminabinara/methminabinara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
