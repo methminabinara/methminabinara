@@ -83,8 +83,9 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methminabinara&show_icons=true&locale=en&layout=compact" alt="methminabinara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methminabinara&theme=dark&show_icons=true&locale=en&layout=compact" alt="methminabinara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=methminabinara&show_icons=true&locale=en" alt="methminabinara" /></p>
+![Methmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=methminabinara&theme=dark&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=methminabinara&" alt="methminabinara" /></p>
+![Methmina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=methminabinara&theme=dark&show_icons=true)
+
