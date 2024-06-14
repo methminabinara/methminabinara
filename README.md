@@ -14,11 +14,14 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/methmina-binara-864999251" target="_blank">
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/methmina-binara-864999251/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
+</p>
 
 ###
 
@@ -79,3 +82,9 @@
 </div>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methminabinara&show_icons=true&locale=en&layout=compact" alt="methminabinara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=methminabinara&show_icons=true&locale=en" alt="methminabinara" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=methminabinara&" alt="methminabinara" /></p>
