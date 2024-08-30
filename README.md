@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently studying Computer Science & Statistics at the University Of Peradeniya<br><br>📫 How to reach me: binaraepa@gmail.com</p>
+<p align="left">🌱 I’m currently studying Computer Science & Statistics at the University Of Peradeniya<br><br>📫 How to reach me: binaraepa@gmail.com<br><br>🌐 Check out my Portfolio: (https://methminabinara.github.io/)</p>
 
 ###
 
